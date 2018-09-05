@@ -3,6 +3,10 @@
 # Installation
 
 ```bash
+easy_install pip
+
+sudo pip install virtualenvwrapper
+
 mkvirtualenv gty
 
 pip install flask
